@@ -1,8 +1,8 @@
-# auth-test
+## auth-test
 
 A basic express app showing how the passport module works.
 
-## Running
+#### Running
 
 * cd into the auth-test project directory
 * run node app
